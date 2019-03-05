@@ -1,7 +1,3 @@
-library(RCurl)
-library(XML)
-library(igraph)
-
 get_and_xpath <- function(URL,XPath) {
   dom <- get(URL)
   xpath(dom,XPath)
