@@ -1,11 +1,14 @@
-get_and_xpath <- function(URL,XPath) {
+get_and_xpath <- function(URL, XPath) {
   dom <- get(URL)
-  xpath(dom,XPath)
+  xpath(dom, XPath)
 }
 
 get <- function(URL) {
-  print(paste("Getting",URL))
-  htmlParse(getURL(URL,followlocation = TRUE, httpheader=c("User-Agent" = "Harmless Crawler, <antoinogan@gmail.com>")))
+  print(paste("Getting", URL))
+  htmlParse(
+    getURL(URL,
+           followlocation = TRUE,
+           httpheader=c("User-Agent" = "Harmless Crawler, <antoinogan@gmail.com>")))
 }
 
 get_all <- function(URLs) {
@@ -138,7 +141,7 @@ crawl_depth_first_aux <- function(URL,step_limit,selection,done) {
   }
 }
 
-crawl <- function(URL,step_limit,selection=NULL) {
+crawl <- function(URL, step_limit,selection=NULL) {
   graph.edgelist(t(matrix(crawl_depth_first_aux(URL,step_limit,selection,done=c())$edges,nrow=2)))
 }
 
