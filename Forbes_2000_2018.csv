@@ -1,4 +1,4 @@
-uri,rank,name,country,profits,position,imageUri,headquarters,revenue,marketValue,assets,ceo,industry,state,thumbnail,squareImage
+uri,rank,company,country,profits_billion_usd,position,imageUri,headquarters,revenues_billion_usd,market_value_billion_usd,assets_billion_usd,ceo,industry,state,thumbnail,squareImage
 https://www.forbes.com/companies/360-security-technology,1574,360 Security Technology,China,10,1574,no-pic,China,321,39253,3637,Hong Zhou,Software & Programming,,,
 https://www.forbes.com/companies/3m,214,3M,United States,4137,214,3m,Minnesota,32250,121802,38575,Inge Thulin,Conglomerates,Minnesota,,
 https://www.forbes.com/companies/3i-group,1252,3i Group,United Kingdom,1535.3,1252,3i-group,United Kingdom,353,12940,9641,Simon Borrows,Investment Services,,,
