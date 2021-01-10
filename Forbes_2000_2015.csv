@@ -1,4 +1,4 @@
-Company,Sector,Industry,Continent,Country,Market Value,Sales,Profits,Assets,Rank,Forbes Webpage
+company,sector,industry,continent,country,market_value_billion_usd,sales_billion_usd,profits_billion_usd,assets_billion_usd,rank,forbes_webpage
 ICBC,Financials,Major Banks,Asia,China,215.6,148.7,42.7,3124.9,1,http://www.forbes.com/companies/icbc/
 China Construction Bank,Financials,Regional Banks,Asia,China,174.4,121.3,34.2,2449.5,2,http://www.forbes.com/companies/china-construction-bank/
 Agricultural Bank of China,Financials,Regional Banks,Asia,China,141.1,136.4,27,2405.4,3,http://www.forbes.com/companies/agricultural-bank-of-china/
