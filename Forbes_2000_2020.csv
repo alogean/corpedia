@@ -1,4 +1,4 @@
-Rank,Company,Country/Territory,Sales,Profits,Assets,Market Value
+rank,company,country/territory,sales_billion_usd,profits_billion_usd,assets_billion_usd,market_value_billion_usd
 1,ICBC,China,$177.2 B,$45.3 B,"$4,322.5 B",$242.3 B
 2,China Construction Bank,China,$162.1 B,$38.9 B,"$3,822 B",$203.8 B
 3,JPMorgan Chase,United States,$142.9 B,$30 B,"$3,139.4 B",$291.7 B
