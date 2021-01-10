@@ -1,4 +1,4 @@
-Rank,Company,Sales($billion),Profits($billion),Assets,Market Value,Country
+rank,company,sales_billion_usd,profits_billion_usd,assets_billion_usd,market_value_billion_usd,country
 40,Commonwealth Bank,47.8,7.3,735.2,117.5,Australia
 44,BHP Billiton,72.2,15.4,129.3,184.7,Australia
 48,Westpac Banking Group,43.9,6.2,699.6,98.9,Australia
