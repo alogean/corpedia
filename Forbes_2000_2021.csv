@@ -1,8 +1,4 @@
-Rank;Company Name;Country;"Sales
-($millions)";"Profits
-($millions)";"Assets
-($millions)";"Market Value 
-As of 5/13/21 ($m)"
+Rank;Company Name;Country;Sales_mUSD;Profits_mUSD;Assets_mUSD;Market_Value_as_5_13_21_mUSD
 1;ICBC;China;190500;45800;4914700;249500
 2;JPMorgan Chase;United States;136200;40400;3689300;464800
 3;Berkshire Hathaway;United States;245500;42500;873700;624400
@@ -41,7 +37,7 @@ As of 5/13/21 ($m)"
 36;Intel;United States;77900;20900;153100;263700
 37;CVS Health;United States;268700;7200;238500;99600
 38;RBC;Canada;42900;8800;1308200;135000
-39;Nestlé;Switzerland;89900;13000;140300;333200
+39;NestlÃ©;Switzerland;89900;13000;140300;333200
 40;HSBC Holdings;United Kingdom;60600;4000;2984200;120300
 41;Daimler;Germany;175900;4100;349600;99200
 42;TD Bank Group;Canada;38800;9100;1358600;120600
@@ -66,7 +62,7 @@ As of 5/13/21 ($m)"
 61;BMW Group;Germany;112800;4300;282000;69800
 62;MetLife;United States;67800;5400;795100;55800
 63;PetroChina;China;280700;2900;380500;66700
-64;LVMH Moët Hennessy Louis Vuitton;France;50900;5400;133000;380300
+64;LVMH MoÃ«t Hennessy Louis Vuitton;France;50900;5400;133000;380300
 65;Novartis;Switzerland;48600;8100;132200;198600
 66;Taiwan Semiconductor;Taiwan;48100;18700;98300;558100
 67;Home Depot;United States;132100;12900;70600;352800
@@ -111,7 +107,7 @@ As of 5/13/21 ($m)"
 106;KDDI;Japan;49300;6200;98400;72100
 107;Bank of Montreal;Canada;24500;4100;761800;59400
 108;Costco Wholesale;United States;178600;4300;54900;164100
-109;Itaú Unibanco Holding;Brazil;37200;3700;389700;48500
+109;ItaÃº Unibanco Holding;Brazil;37200;3700;389700;48500
 110;State Bank of India;India;50600;3100;638100;40800
 111;Chubb;Switzerland;36100;3500;172200;73300
 112;Mitsubishi;Japan;116700;3100;179700;41600
@@ -160,7 +156,7 @@ As of 5/13/21 ($m)"
 155;Hyundai Motor;South Korea;88100;1200;192700;54000
 156;Danaher;United States;22300;3600;76200;173300
 157;Westpac Banking Group;Australia;21900;1500;654600;71800
-158;L'Oréal;France;31900;4100;53400;225700
+158;L'OrÃ©al;France;31900;4100;53400;225700
 159;Petrobras;Brazil;52700;1400;190100;53300
 160;NextEra Energy;United States;17200;2900;127700;158800
 161;AstraZeneca;United Kingdom;27700;3200;66700;133900
@@ -196,7 +192,7 @@ As of 5/13/21 ($m)"
 191;BBVA-Banco Bilbao Vizcaya;Spain;32900;1500;900700;34800
 192;HCA Healthcare;United States;51500;3800;47500;66400
 193;Duke Energy;United States;23900;1400;167300;77400
-194;América Móvil;Mexico;47300;2200;75600;48300
+194;AmÃ©rica MÃ³vil;Mexico;47300;2200;75600;48300
 195;Takeda Pharmaceutical;Japan;30000;1700;119000;53300
 196;DBS;Singapore;13200;3400;491900;55400
 197;Bank of New York Mellon;United States;15900;3600;469600;40400
@@ -216,7 +212,7 @@ As of 5/13/21 ($m)"
 211;Fubon Financial;Taiwan;35200;3100;328400;21700
 212;Sun Life Financial;Canada;27000;1900;250500;30600
 213;General Dynamics;United States;37900;3200;51300;52300
-214;Møller-Maersk;Denmark;39600;2800;56100;47800
+214;MÃ¸ller-Maersk;Denmark;39600;2800;56100;47800
 215;Volvo Group;Sweden;36800;2100;62200;52200
 216;Altria Group;United States;20800;4500;47400;96900
 217;Humana;United States;77100;3400;35100;56200
@@ -237,7 +233,7 @@ As of 5/13/21 ($m)"
 232;EMD Group;Germany;20000;2300;51600;77600
 233;E.ON;Germany;69500;1000;123300;30700
 234;PTT;Thailand;51600;1200;84900;36400
-235;Telefónica;Spain;49100;1500;128500;24400
+235;TelefÃ³nica;Spain;49100;1500;128500;24400
 236;National Grid;United Kingdom;18800;1900;85000;44300
 237;HP;United States;57700;3200;34700;42600
 238;Danone;France;26900;2200;52300;46400
@@ -495,7 +491,7 @@ As of 5/13/21 ($m)"
 490;Entergy;United States;10000;1400;58200;21400
 491;Lam Research;United States;11900;3000;15400;92000
 492;Infosys;India;13500;2600;14800;77500
-493;The Estée Lauder Companies;United States;14200;928;19600;113300
+493;The EstÃ©e Lauder Companies;United States;14200;928;19600;113300
 494;China Tower Corp.;China;11800;932.7;51600;25900
 495;Corteva;United States;14200;681;42600;35200
 496;CSL;Australia;9900;2600;17700;94700
@@ -528,7 +524,7 @@ As of 5/13/21 ($m)"
 523;Cognizant;United States;16700;1400;16900;42800
 524;Vestas Wind Systems;Denmark;16900;870.5;22200;40100
 525;JBS;Brazil;52400;891.5;31500;14800
-526;Société Générale;France;41400;-990.6;1788800;20900
+526;SociÃ©tÃ© GÃ©nÃ©rale;France;41400;-990.6;1788800;20900
 527;Ageas;Belgium;12500;1300;135400;11400
 528;NEC;Japan;27800;986.3;32400;16300
 529;Adidas;Germany;22600;493.6;25800;64900
@@ -591,7 +587,7 @@ As of 5/13/21 ($m)"
 586;Axis Bank;India;10900;403.6;130100;27600
 587;Fidelity National Information;United States;12600;157;83800;94900
 588;First Republic Bank;United States;4600;1200;155800;31600
-589;Koç Holding;Turkey;20500;1300;84800;5700
+589;KoÃ§ Holding;Turkey;20500;1300;84800;5700
 590;DuPont de Nemours;United States;20400;-3000;70900;41200
 591;Valero Energy;United States;64900;-1400;52400;29600
 592;WEC Energy Group;United States;7200;1200;37900;30600
@@ -680,7 +676,7 @@ As of 5/13/21 ($m)"
 675;Siam Cement;Thailand;12800;1100;25000;15800
 676;Heineken;Netherlands;22500;-116.3;54300;27300
 677;Dongfeng Motor Group;China;15700;1600;48400;8100
-678;Hermès International;France;7300;1600;13500;128600
+678;HermÃ¨s International;France;7300;1600;13500;128600
 679;Tenaga Nasional;Malaysia;10500;855;45100;13900
 680;Banco Btg Pactual;Brazil;3100;1000;44900;46100
 681;Conagra Brands;United States;11700;1200;22100;18000
@@ -949,7 +945,7 @@ As of 5/13/21 ($m)"
 944;Rosseti;Russia;13800;546.5;35200;3800
 945;JM Smucker;United States;8200;951.3;16400;14400
 946;WR Berkley;United States;8000;530.7;28000;14200
-947;Bâloise Group;Switzerland;9200;462.7;99200;7900
+947;BÃ¢loise Group;Switzerland;9200;462.7;99200;7900
 948;Bank Hapoalim;Israel;4700;597.8;168100;10800
 949;Everest Re Group;Bermuda;9600;507.8;30400;11800
 950;Equity Residential;United States;2500;879.4;20300;27100
@@ -961,7 +957,7 @@ As of 5/13/21 ($m)"
 956;SMC;Japan;4900;986.5;14200;40300
 957;China International Travel Service;China;6700;513.4;5700;85600
 958;Hoya;Japan;5000;1100;7900;46500
-959;Eletrobrás;Brazil;5600;1200;34500;10100
+959;EletrobrÃ¡s;Brazil;5600;1200;34500;10100
 960;Public Storage;United States;2900;1400;11800;46600
 961;Toppan Printing;Japan;13700;814;21900;6100
 962;China International Marine;China;13600;801.3;22400;6500
@@ -1221,7 +1217,7 @@ As of 5/13/21 ($m)"
 1216;Canadian Tire;Canada;11100;560.5;16000;9500
 1217;Verisk Analytics;United States;2800;712.7;7600;30100
 1218;Electric Power Development;Japan;7900;558.3;27400;3000
-1219;Itaúsa;Brazil;1100;1400;14000;15400
+1219;ItaÃºsa;Brazil;1100;1400;14000;15400
 1220;Suntory Beverage & Food;Japan;11000;489;15200;11000
 1221;Banco de Sabadell;Spain;7100;1.6;288500;3100
 1222;MSCI;United States;1700;601.8;4200;39200
@@ -1672,7 +1668,7 @@ As of 5/13/21 ($m)"
 1667;US Foods;United States;22900;-226;12400;8600
 1668;Bank of Xi'an;China;2000;378.9;44500;3400
 1669;Roku;United States;1800;-17.5;2300;48400
-1670;Red Eléctrica;Spain;2300;708.1;15800;9700
+1670;Red ElÃ©ctrica;Spain;2300;708.1;15800;9700
 1671;CrowdStrike;United States;874;-92.6;2700;48200
 1672;Tokyu;Japan;9200;-282.5;24400;7900
 1673;United Natural Foods;United States;27000;198.4;7500;2000
